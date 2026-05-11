@@ -45,8 +45,4 @@ dụng
 ## ⚠️ Lưu ý (Disclaimer)
 
 ---
-## Stars ⭐
 
-
-
-<img width="2748" height="1986" alt="star-history-20251211 (1)" src="https://github.com/user-attachments/assets/f0fd47b7-d196-477d-a0d6-4311fdcac177" />
