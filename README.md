@@ -42,7 +42,4 @@ dụng
 5. Chờ vài giây để tool xử lý, sau đó hộp thoại lưu PDF sẽ tự động hiện ra.
 
 
-## ⚠️ Lưu ý (Disclaimer)
-
----
 
